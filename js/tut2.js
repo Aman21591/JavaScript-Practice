@@ -1,0 +1,11 @@
+console.time('time taken');
+console.log('hello Console') ; 
+console.log(5*2);
+console.log([5,6,7,8,9]);
+console.log({aman:'type',marks:54});
+console.table({aman:'type',marks:54});
+console.warn('This is warning');
+// console.clear();
+console.timeEnd('time taken');
+console.assert(569<119,'age>189 is not possible');
+console.clear();
