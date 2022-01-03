@@ -1,3 +1,4 @@
+console.log('Create a class liberary')
 /*
 * Exercise -4
  * create a class liberary and implement the following:
